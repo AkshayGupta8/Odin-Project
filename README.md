@@ -1,1 +1,1 @@
-This is a repository where I am completing the Odin Project.
+This is a repository where I am completing the Odin Project. I am currently learning to use HTML and CSS to build beautiful webpages.
